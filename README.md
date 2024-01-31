@@ -40,10 +40,10 @@
 <a href="https://instagram.com/xmaykijll_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xmaykijll_" height="50" width="45" /></a>
 </p>
 
-<h2 align="left">🛠 Languages-Frameworks-Tools</h2>
+<h2 align="left">🛠 Languages-Frameworks-Tools I'm currently learning </h2>
 
 <a href="https://skillicons.dev"> 
-  <img src="https://skillicons.dev/icons?i=netlify,powershell,stackoverflow,vscode,bootstrap,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,netlify,powershell,stackoverflow,vscode,bootstrap,git,github" />
 
   <h2 align="center"></h2>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maykicolits&show_icons=true&locale=en&layout=compact" alt="maykicolits" /></p>
