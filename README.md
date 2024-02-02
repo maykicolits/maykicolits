@@ -37,13 +37,13 @@
 <p align="left">
 <a href="https://twitter.com/xmaykijll_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xmaykijll_" height="50" width="45" /></a>
 <a href="https://fb.com/maykijillcltx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maykijillcltx" height="50" width="45" /></a>
-<a href="https://instagram.com/xmaykijll_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xmaykijll_" height="50" width="45" /></a>
+<a href="https://instagram.com/xmaykijll_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xmaykijll_" height="45" width="45" /></a>
 </p>
 
-<h2 align="left">🛠 Languages-Frameworks-Tools I'm currently learning </h2>
+<h2 align="left">🛠 Languages-Frameworks-Tools: I'm currently using and learning </h2>
 
 <a href="https://skillicons.dev"> 
-  <img src="https://skillicons.dev/icons?i=html,css,netlify,powershell,stackoverflow,vscode,bootstrap,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,git,github,netlify,powershell,stackoverflow,vscode" />
 
   <h2 align="center"></h2>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maykicolits&show_icons=true&locale=en&layout=compact" alt="maykicolits" /></p>
